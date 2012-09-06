@@ -12,7 +12,8 @@
       "bootstrap/css/bootstrap-responsive.min.css",
       "css-social-buttons/zocial.stripped.css",
       "css/darkstrap.css",
-      "css/style.css?body=1"
+      "css/style.css?body=1",
+      "css/creosote.css"
     ],
    
     "widgets" : {

@@ -1,0 +1,34 @@
+/*
+ * Creosote.css
+ *
+ * This file is meant to simply overlay all of the other files that are being
+ * loaded in, as a way of altering the hooligan styles, out-of-line.
+ */
+
+/* from darkstrap.css */
+.well, .breadcrumb, input,
+input[type="file"],
+select,
+textarea, .progress, code, pre {
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  -o-box-shadow: none;
+  box-shadow: none;
+  background: #202020;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* from bootstrap.css */
+ol {
+  list-style: none;
+  margin: 0 0 9px 3px;
+}
+
+blockquote p {
+  font-size: 14px;
+  font-style: italic;
+}
+
+blockquote {
+  background-color: #373737;  /* lighten(#2A2A2A, 5%); */
+}
