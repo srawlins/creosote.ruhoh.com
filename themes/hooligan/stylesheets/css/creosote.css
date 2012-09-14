@@ -19,7 +19,7 @@ textarea, .progress, code, pre {
 }
 
 /* from bootstrap.css */
-ol {
+pre > ol {
   list-style: none;
   margin: 0 0 9px 3px;
 }
@@ -31,4 +31,13 @@ blockquote p {
 
 blockquote {
   background-color: #373737;  /* lighten(#2A2A2A, 5%); */
+}
+
+/* mine own */
+.MathJax {
+  font-size: 1.15em;
+}
+
+em {
+  margin-right: 3px;
 }
