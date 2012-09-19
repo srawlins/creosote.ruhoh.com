@@ -33,6 +33,26 @@ blockquote {
   background-color: #373737;  /* lighten(#2A2A2A, 5%); */
 }
 
+/* from style.css */
+h2 {
+  color: #FFFFFF;
+  border-bottom: solid 2px #FFFFFF;
+}
+
+h3 {
+  border-bottom: solid 2px #999999;
+  color: #FFFFFF;
+  font-size: 1.7em;
+  margin-bottom: 4px;
+}
+
+.post h3 {
+  border-bottom: none;
+  color: #CCCCCC;
+  font-size: 1.3em;
+  margin-bottom: 0;
+}
+
 /* mine own */
 .MathJax {
   font-size: 1.15em;
