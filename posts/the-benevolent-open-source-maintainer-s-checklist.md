@@ -3,8 +3,6 @@ title: Checklist for the Benevolent Open Source Maintainer
 date: '2012-09-20'
 description: Checklist for the Benevolent Open Source Maintainer
 tags: []
-
-type: draft
 ---
 
 It's easy to whip up a quick mass of code that does something useful for
