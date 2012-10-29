@@ -1,0 +1,25 @@
+ol.linenums {
+  margin: 0 0 0 0;
+}
+
+.post ol.linenums li {
+  padding-left: 2px;
+}
+
+ol.linenums li {
+  list-style: none;
+}
+
+.prettyprint.linenums {
+  padding: 4px 2px;
+}
+
+h3 {
+  font-size: 28px;
+}
+
+h4 {
+  font-size: 22px;
+  font-weight: 400;
+  margin: 20px 0 7px 0;
+}

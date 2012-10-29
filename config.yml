@@ -2,8 +2,8 @@
 # Usage: http://ruhoh.com/usage/configure/ 
 
 RuhohSpec: '1.0'
-theme : hooligan
-production_url : http://creosote.ruhoh.com
+theme : dinky
+production_url : http://srawlins.ruhoh.com
 
 posts:
   permalink: /:categories/:title/
