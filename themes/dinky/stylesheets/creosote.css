@@ -23,3 +23,16 @@ h4 {
   font-weight: 400;
   margin: 20px 0 7px 0;
 }
+
+p code,
+li code {
+  background-color: #F7F7F9;
+  border: solid 1px #E1E1E8;
+  white-space: nowrap;
+}
+
+pre li code {
+  background: none;
+  border: none;
+  white-space: auto;
+}
